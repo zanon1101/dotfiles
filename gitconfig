@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = efuller1101
+	name = elliott fuller
